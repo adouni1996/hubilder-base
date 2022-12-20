@@ -1,0 +1,29 @@
+@import '@/uni_modules/uni-scss/variables.scss';
+
+.pr{
+  position: relative;
+}
+
+.pa{
+  position: absolute;
+}
+
+.w100{
+  width: 100%;
+}
+
+.h100{
+  height: 100%;
+}
+
+.fl{
+  display: flex;
+}
+
+.ac{
+  align-items: center;
+}
+
+.jc{
+  justify-content: center;
+}
